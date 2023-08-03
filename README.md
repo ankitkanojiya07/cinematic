@@ -5,7 +5,7 @@ I used React Router for navigation, Redux for State Management, Pagination for c
 
 I used Debouncing techinique in search bar to avoid unnecessary Network Request and to save user bandwidth.
 
-#Tech stacks
+# Tech stacks
 1.React
 2.Redux
 3.React Router
