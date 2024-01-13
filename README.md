@@ -13,3 +13,9 @@ I used Debouncing techinique in search bar to avoid unnecessary Network Request 
 5.CSS
 6.HTML
 6.API
+
+
+![Screenshot (83)](https://github.com/ankitkanojiya07/cinematic/assets/94682775/bed4d675-1eb3-4820-88f5-09ddfd9dd4b9)
+
+![Screenshot (87)](https://github.com/ankitkanojiya07/cinematic/assets/94682775/2d998a6e-58f0-473a-8915-ef28ad86c1a0)
+
