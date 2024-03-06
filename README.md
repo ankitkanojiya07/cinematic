@@ -1,11 +1,22 @@
-# cinematic
-This is a React app created with React, Redux. This App provides trending and searched movies and TV shows, and all necessary details of each movie/TV show on clicking on that.
+# CINAMATIC
 
-I used React Router for navigation, Redux for State Management, Pagination for changing page.
+## Introduction:
+CINAMATIC is a movie and TV show information platform that provides trending and searched movies and TV shows, along with all the necessary details of each movie/TV show upon clicking on them. The platform is built using React for the frontend, Redux for state management, and React Router for navigation. Additionally, pagination is implemented to allow users to navigate through multiple pages of content. To enhance user experience and optimize network requests, debouncing technique is used in the search bar to avoid unnecessary network requests and save user bandwidth.
 
-I used Debouncing techinique in search bar to avoid unnecessary Network Request and to save user bandwidth.
+## Features:
+- **Trending and Searched Movies/TV Shows:** Users can explore trending and searched movies and TV shows.
+- **Movie/TV Show Details:** Upon clicking on a movie or TV show, users can view all the necessary details such as synopsis, ratings, cast, etc.
+- **Pagination:** Pagination feature allows users to navigate through multiple pages of content.
+- **Debouncing Technique:** Implemented debouncing technique in the search bar to avoid unnecessary network requests and save user bandwidth.
 
-# Tech stacks 
+## Technologies Used:
+- **React:** Frontend library for building user interfaces.
+- **Redux:** State management library for managing application state.
+- **React Router:** Library for declarative routing in React applications.
+- **Pagination:** Component for implementing pagination functionality.
+- **Debouncing Technique:** Technique used in the search bar to optimize network requests.
+
+  # Tech stacks 
 <div align="center">
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" title="HTML"/></code>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="CSS" title="CSS"/></code>
@@ -15,12 +26,26 @@ I used Debouncing techinique in search bar to avoid unnecessary Network Request 
 </div>
 
 
-#Preview
 
+
+## Setup Instructions:
+1. Clone the repository to your local machine.
+2. Install dependencies using `npm install`.
+3. Start the development server using `npm start`.
+4. Access the application in your web browser at `http://localhost:3000`.
+
+## Repository Structure:
+- **src/:** Directory containing the source code of the application.
+  - **components/:** Directory containing React components.
+  - **redux/:** Directory containing Redux store, reducers, and actions.
+  - **pages/:** Directory containing different pages of the application.
+  - **utils/:** Directory containing utility functions, including debouncing logic.
+  - **App.js:** Main component file where routes are defined.
+  - **index.js:** Entry point of the application.
+- **public/:** Directory containing public assets and HTML template files.
+
+## Screenshots:
 ![Screenshot ](https://github.com/ankitkanojiya07/cinematic/assets/94682775/dc2f76b0-8712-4278-9d02-c1656bf983a8)
 
 
-
-
-![Screenshot (87)](https://github.com/ankitkanojiya07/cinematic/assets/94682775/2d998a6e-58f0-473a-8915-ef28ad86c1a0)
 
