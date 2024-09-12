@@ -3,6 +3,9 @@
 ## Introduction:
 CINAMATIC is a movie and TV show information platform that provides trending and searched movies and TV shows, along with all the necessary details of each movie/TV show upon clicking on them. The platform is built using React for the frontend, Redux for state management, and React Router for navigation. Additionally, pagination is implemented to allow users to navigate through multiple pages of content. To enhance user experience and optimize network requests, debouncing technique is used in the search bar to avoid unnecessary network requests and save user bandwidth.
 
+## Demo:- https://cinematiics.netlify.app/
+
+
 ## Features:
 - **Trending and Searched Movies/TV Shows:** Users can explore trending and searched movies and TV shows.
 - **Movie/TV Show Details:** Upon clicking on a movie or TV show, users can view all the necessary details such as synopsis, ratings, cast, etc.
